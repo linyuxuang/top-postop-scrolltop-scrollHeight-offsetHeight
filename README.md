@@ -52,7 +52,8 @@ top-postop-scrolltop-scrollHeight-offsetHeight
           </div>
 
           <script>
-          container.scrollTop = 12;
+           var text=	document.getElementById("container")
+             text.scrollTop = 32;
           </script>
           这一段文本在这个100*100的DIV内无法完全显示，所以设置了overflow为auto，
           它会出现一个上下方向的滑动框，假如没有设置id.scrollTop属性的话，
