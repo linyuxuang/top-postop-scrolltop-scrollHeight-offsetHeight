@@ -87,8 +87,8 @@ top-postop-scrolltop-scrollHeight-offsetHeight
 
 
 
+getBoundingClientRect()
 
-
-
+http://www.cnblogs.com/qieqing/archive/2008/10/06/1304399.html
 
 
